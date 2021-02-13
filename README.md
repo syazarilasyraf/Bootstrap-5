@@ -3,6 +3,10 @@
 Lesson files based on https://youtu.be/c9B4TPnak1A- Bootstrap 5
 
 ### Updates
+- 14/2/2021
+  - Grid
+  - Buttons
+
 - 13/2/2021
   - Installation
   - Basic HTML Structure
