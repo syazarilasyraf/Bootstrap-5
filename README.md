@@ -3,6 +3,13 @@
 Lesson files based on https://youtu.be/c9B4TPnak1A- Bootstrap 5
 
 ### Updates
+- 16/2/2021
+  - Carousel
+  - Scrollspy
+  - Navbars
+  - Icons
+  - Forms
+
 - 15/2/2021
   - Typography
   - Responsive Images
